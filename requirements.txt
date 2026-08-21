@@ -1,5 +1,4 @@
 Flask
 gunicorn
-tensorflow
-keras
+tensorflow==2.20.0
 numpy
